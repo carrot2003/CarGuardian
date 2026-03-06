@@ -1,3 +1,5 @@
+![ae8d01a1b4809329846664b8546a2356](https://github.com/user-attachments/assets/46caeea2-ee4f-4a36-ad0a-68a480b37e53)
+
 # CarGuardian
 
 CarGuardian是一款为驾驶员设计的车辆姿态监控应用，提供实时的姿态仪表显示，包括俯仰角、横滚角、速度、高度和航向等信息。
