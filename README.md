@@ -3,6 +3,7 @@
 # CarGuardian
 
 CarGuardian是一款为驾驶员设计的车辆姿态监控应用，提供实时的姿态仪表显示，包括俯仰角、横滚角、速度、高度和航向等信息。
+本项目灵感来自于https://github.com/SamToki/GPS-PFD，感谢SamToki大神的帮助和启发。
 
 ## 功能特性
 
